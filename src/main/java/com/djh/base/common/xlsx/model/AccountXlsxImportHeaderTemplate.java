@@ -1,0 +1,25 @@
+package com.djh.base.common.xlsx.model;
+
+public enum AccountXlsxImportHeaderTemplate {
+    TIMESTAMP,
+    EMAIL,
+    FIRST_NAME,
+    LAST_NAME,
+    DATE,
+    MONTH,
+    YEAR,
+    PHONE_NUMBER,
+    GENDER,
+    IDENTITY_TYPE,
+    IDENTITY_NUMBER,
+    IDENTITY_EXPIRY_DATE,
+    IDENTITY_PROVIDER_LOCATION,
+    IDENTITY_FRONT_IMAGE,
+    IDENTITY_BACK_IMAGE,
+    EXAM_LOCATION_EXPECTATION,
+    CLASS,
+    FACEBOOK_LINK,
+    SCHOOL_NAME,
+    REFERRAL_TYPE,
+    EXAM_DATE_EXPECTATION
+}
